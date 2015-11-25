@@ -1,0 +1,18 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "homepage": "http://www.boldoutlook.com/foundation/",
+  "author": "Bold Outlook",
+  "scss": "./foundation.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bedrock/foundation.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-parker": "~0.1.0",
+    "grunt-sass": "^0.18.1"
+  }
+}
